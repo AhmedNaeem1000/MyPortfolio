@@ -32,6 +32,15 @@ const projects = [
   },
   {
     id: 4,
+    title: "Ecommerce",
+    description: "A responsive e-commerce website template featuring product listings, a shopping cart, and a checkout process.",
+    image: "/projects/5.png",
+    tags: ["Js", "React.js", "Tailwind CSS"],
+    demoUrl: "https://trivus-gray.vercel.app/",
+    githubUrl: "https://github.com/AhmedNaeem1000/Trivus",
+  },
+    {
+    id: 4,
     title: "Trivus – Learning Platform",
     description: "An educational platform for learning programming through interactive paths, quizzes, and a smart personalized experience.",
     image: "/projects/4.jpeg",
@@ -39,6 +48,8 @@ const projects = [
     demoUrl: "https://trivus-gray.vercel.app/",
     githubUrl: "https://github.com/AhmedNaeem1000/Trivus",
   },
+  
+  
 ];
 
 export const ProjectsSection = () => {
