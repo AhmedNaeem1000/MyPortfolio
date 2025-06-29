@@ -45,8 +45,8 @@ const projects = [
     description: "An educational platform for learning programming through interactive paths, quizzes, and a smart personalized experience.",
     image: "/projects/4.jpeg",
     tags: ["Js", "React.js", "Tailwind CSS" , "Chart.js"],
-    demoUrl: "https://trivus-gray.vercel.app/",
-    githubUrl: "https://github.com/AhmedNaeem1000/Trivus",
+    demoUrl: "#",
+    githubUrl: "https://e-commerce-five-lemon-93.vercel.app/",
   },
   
   
