@@ -36,17 +36,17 @@ const projects = [
     description: "A responsive e-commerce website template featuring product listings, a shopping cart, and a checkout process.",
     image: "/projects/5.png",
     tags: ["Js", "React.js", "Tailwind CSS"],
-    demoUrl: "https://trivus-gray.vercel.app/",
-    githubUrl: "https://github.com/AhmedNaeem1000/Trivus",
+    demoUrl: "https://e-commerce-five-lemon-93.vercel.app/",
+    githubUrl: "#",
   },
     {
-    id: 4,
+    id: 5,
     title: "Trivus – Learning Platform",
     description: "An educational platform for learning programming through interactive paths, quizzes, and a smart personalized experience.",
     image: "/projects/4.jpeg",
     tags: ["Js", "React.js", "Tailwind CSS" , "Chart.js"],
-    demoUrl: "#",
-    githubUrl: "https://e-commerce-five-lemon-93.vercel.app/",
+    demoUrl: "https://trivus-git-main-ahmednaeem1000s-projects.vercel.app/",
+    githubUrl: "#",
   },
   
   
